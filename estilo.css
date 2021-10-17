@@ -1,0 +1,36 @@
+
+body{
+
+    background-color: rgb(114, 114, 114);
+
+}
+
+table{
+
+    width: 600px;
+    border-collapse: collapse;
+}
+
+td,th{
+
+    
+    padding: 5px;
+    
+}
+
+th{
+
+    text-transform: uppercase;
+    letter-spacing: 0.15rem;
+}
+
+td:hover,tr:hover{
+
+    background-color: aquamarine;
+}
+
+.hoverOff:hover{
+
+    background: none;
+
+}
